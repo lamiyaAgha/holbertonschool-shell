@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ap|grep '^[A-Z].*' /tmp/u/
+mv -ap|grep '^[A-Z].*' /tmp/u
